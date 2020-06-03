@@ -1,5 +1,3 @@
-
-
 # So, you sent a stupid message.
 
 
@@ -21,7 +19,7 @@ I hope you have a lovely day!
 [New York Times- What does Misogyny Look Like?](https://www.nytimes.com/2019/03/08/style/misogyny-women-history-photographs.html)
 
 
-[Laura Thompson- “I can be your Tinder nightmare”: Harassment and misogyny in the online sexual] marketplace(https://journals.sagepub.com/doi/full/10.1177/0959353517720226)
+[Laura Thompson- “I can be your Tinder nightmare”: Harassment and misogyny in the online sexual marketplace](https://journals.sagepub.com/doi/full/10.1177/0959353517720226)
 
 
 [The Guardian- How to be a good man: what I learned from a month reading the feminist classics](https://www.theguardian.com/world/2018/oct/02/how-to-be-good-man-me-too-month-reading-feminist-classics)
@@ -31,5 +29,3 @@ I hope you have a lovely day!
 
 
 [The Irish Times- Womansplaining: books that every man should read](https://www.irishtimes.com/culture/books/womansplaining-books-that-every-man-should-read-1.2807403)
-
-​
